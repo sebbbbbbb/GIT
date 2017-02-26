@@ -1,0 +1,1 @@
+QRCode.jar "C:/FILEROOT/MONEY-RECUS-CONTRATS/Note2.txt"
